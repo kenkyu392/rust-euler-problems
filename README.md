@@ -1,6 +1,6 @@
 # rust-euler-problems
 
-Rust implementation of [Project Euler](https://projecteuler.net/) problems.
+Rust solutions to [Project Euler](https://projecteuler.net/) problems.
 
 | Problem                       | Solution                            |
 | ----------------------------- | ----------------------------------- |
